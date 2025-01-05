@@ -1,18 +1,19 @@
 ---
 layout: default
 title: "Home"
-description: "Welcome to my blog!"
+description: "Insights, Projects, and Data Science Adventures"
 ---
 
-# Welcome to Mikhail Iakovlev's Blog
+# Mikhail Iakovlev — Data Scientist
 
-I'm a Data Scientist with over 4 years of experience in machine learning, analytics, and A/B testing.  
-This space is where I share my projects, insights, and experiments in the world of data.  
-Feel free to explore, discover something new, and reach out if you have questions or ideas to share.
+With over 5 years of experience in machine learning, analytics, and A/B testing, I specialize in creating data-driven solutions that optimize workflows and deliver meaningful insights.  
+This space is dedicated to sharing my projects, thoughts on emerging technologies, and lessons learned along the way.  
+
+Explore my work, dive into the projects, and feel free to connect if you have ideas or questions!
 
 ## My Projects
 
-### 1. Project AI Sandbox
+### 1. Project AI Sandbox  
 A brief description of what this project is about.  
 - Key technology stack (e.g., Python, scikit-learn, etc.)  
 - Main goals  
@@ -20,7 +21,7 @@ A brief description of what this project is about.
 
 [Visit GitHub Repository](https://github.com/miakovlev/AI_sandbox)
 
-### 2. Project MoodMeter
+### 2. Project MoodMeter  
 Another interesting project summary.  
 - Key features  
 - Outline of your approach  
@@ -28,7 +29,7 @@ Another interesting project summary.
 
 [Visit GitHub Repository](https://github.com/miakovlev/MoodMeter)
 
-### 3. Project StyleMorph
+### 3. Project StyleMorph  
 Short description or highlight of achievements.  
 - Why you worked on it  
 - Any unique technical challenges  
@@ -36,7 +37,7 @@ Short description or highlight of achievements.
 
 [Visit GitHub Repository](https://github.com/miakovlev/StyleMorph)
 
-## Blog / Thoughts
+## Blog / Thoughts  
 From time to time, I'll post articles or short notes here about:  
 - Data science techniques  
 - Interesting experiments  
