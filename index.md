@@ -12,7 +12,7 @@ Feel free to explore and reach out if you have any questions or suggestions!
 
 ## My Projects
 
-### 1. Project A
+### 1. Project AI sandbox
 A brief description of what this project is about. 
 - Key technology stack (e.g., Python, scikit-learn, etc.)
 - Main goals
