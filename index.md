@@ -18,7 +18,7 @@ A brief description of what this project is about.
 - Main goals
 - Important results
 
-[Visit GitHub Repository]([https://github.com/miakovlev/AI_sandbox]))
+[Visit GitHub Repository](https://github.com/miakovlev/AI_sandbox)
 
 ### 2. Project MoodMeter
 Another interesting project summary. 
@@ -26,7 +26,7 @@ Another interesting project summary.
 - Outline of your approach
 - Lessons learned
 
-[Visit GitHub Repository]([https://github.com/miakovlev/MoodMeter])
+[Visit GitHub Repository](https://github.com/miakovlev/MoodMeter)
 
 ### 3. Project StyleMorph
 Short description or highlight of achievements. 
@@ -34,7 +34,7 @@ Short description or highlight of achievements.
 - Any unique technical challenges
 - Plans for future improvement
 
-[Visit GitHub Repository]([https://github.com/miakovlev/StyleMorph])
+[Visit GitHub Repository](https://github.com/miakovlev/StyleMorph)
 
 ## Blog / Thoughts
 From time to time, I'll post articles or short notes here about:
