@@ -22,10 +22,19 @@ A brief description of what this project is about.
 [Visit GitHub Repository](https://github.com/miakovlev/AI_sandbox)
 
 ### 2. Project MoodMeter  
-Another interesting project summary.  
-- Key features  
-- Outline of your approach  
-- Lessons learned  
+MoodMeter is a tool for analyzing chat sentiment in Telegram, using machine learning to classify messages as positive, neutral, or negative.
+
+- Key Technologies:
+Python for system implementation
+Hugging Face Transformers for natural language processing
+PostgreSQL for data storage
+Streamlit for interactive dashboards
+- Features:
+Real-time sentiment classification of messages
+Interactive visualization of analysis results
+Seamless integration with Telegram API for data collection
+- Use Cases:
+Perfect for monitoring customer sentiment in support chats, identifying key pain points, and making data-driven decisions to improve service quality.
 
 [Visit GitHub Repository](https://github.com/miakovlev/MoodMeter)
 
