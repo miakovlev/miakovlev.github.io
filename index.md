@@ -18,23 +18,23 @@ A brief description of what this project is about.
 - Main goals
 - Important results
 
-[Visit GitHub Repository](https://github.com/your-account/ProjectA)
+[Visit GitHub Repository]([https://github.com/miakovlev/AI_sandbox]))
 
-### 2. Project B
+### 2. Project MoodMeter
 Another interesting project summary. 
 - Key features
 - Outline of your approach
 - Lessons learned
 
-[Visit GitHub Repository](https://github.com/your-account/ProjectB)
+[Visit GitHub Repository]([https://github.com/miakovlev/MoodMeter])
 
-### 3. Project C
+### 3. Project StyleMorph
 Short description or highlight of achievements. 
 - Why you worked on it
 - Any unique technical challenges
 - Plans for future improvement
 
-[Visit GitHub Repository](https://github.com/your-account/ProjectC)
+[Visit GitHub Repository]([https://github.com/miakovlev/StyleMorph])
 
 ## Blog / Thoughts
 From time to time, I'll post articles or short notes here about:
